@@ -1,4 +1,4 @@
 ---
 comment: true
 ---
-推荐一个音乐软件
+[comfyui资源库 - 飞书云文档](https://uxig66wdgib.feishu.cn/wiki/OhySwZdskidDA7k2bGocKSBPnTb)
